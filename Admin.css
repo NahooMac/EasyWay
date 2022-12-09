@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.navbar-img img{
+    filter: grayscale(.4);
+    position: sticky;
+    top: -10px;
+}
+.navbar-titel{
+    padding: 19px;
+    color: #FFF;
+    font-size: 35px;
+    position: absolute;
+    top: 0;
+}

@@ -1,0 +1,51 @@
+body{
+    margin: 0 ;
+    padding: 0 15px;
+    justify-content: center;
+    background:linear-gradient(to right, rgb(12, 151, 140),rgb(12, 59, 124) );
+    align-items: center;
+    display: flex;
+
+} 
+.card{
+    padding: 15px;
+    border: 2px solid #000;
+    border-radius: 15px;
+    background-color: rgb(11, 11, 36);
+    color: white;
+    width: 350px;
+    height: 450px;
+    font-size: 22px;
+    line-height: 42px;
+}
+.inputholder input{
+    border-radius: 15px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(5, 29, 59);
+    box-shadow: inset -15px 2px 2px 1px rgb(5,29,59);
+    font-size: 22px;
+    color:#fff;
+}
+button{
+    border-color: transparent;
+    border-radius: 50%;
+    background-color: rgb(12, 59, 124);
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(5, 29, 59);
+}
+#person{
+    font-size: 28px;
+    text-shadow: 2px 5px 6px 10px whitesmoke;
+}
+.resualt{
+    text-align: right;
+    font-size: 28px;
+}
+
+
+
